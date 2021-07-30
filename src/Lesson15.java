@@ -42,5 +42,10 @@ public class Lesson15 {
                 counter++;
             }
         }
+
+
+
+
+        // CARD
     }
 }
