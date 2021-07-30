@@ -31,6 +31,7 @@ public class Cards {
         String[] cardDeck = new String[52];
         int counter = 0;
 
+        // GENERATING CARD DECK
         for (int i = 0; i < Suits.values().length; i++) {
             for (int j = 0; j < CardValues.values().length; j++) {
 
